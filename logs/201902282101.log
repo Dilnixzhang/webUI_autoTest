@@ -1,0 +1,12 @@
+2019-02-28 21:01:20,641 - BrowserEngine - INFO - you had select Chrome browser.
+2019-02-28 21:01:20,641 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-02-28 21:01:23,738 - BrowserEngine - INFO - Starting Chrome browser.
+2019-02-28 21:01:28,107 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-02-28 21:01:29,218 - BrowserEngine - INFO - Maximize the current window.
+2019-02-28 21:01:29,220 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2019-02-28 21:01:33,547 - BasePage - INFO - 输入内容admin
+2019-02-28 21:01:33,547 - BasePage - INFO - 输入内容admin
+2019-02-28 21:01:33,650 - BasePage - INFO - 输入内容admin
+2019-02-28 21:01:33,650 - BasePage - INFO - 输入内容admin
+2019-02-28 21:02:05,709 - BasePage - ERROR - <pageobjects.Discuz_homepage.HomePage object at 0x00000000029982E8>页面中未找到('css selector', '.loginform input')元素
+2019-02-28 21:02:05,709 - BasePage - ERROR - <pageobjects.Discuz_homepage.HomePage object at 0x00000000029982E8>页面中未找到('css selector', '.loginform input')元素

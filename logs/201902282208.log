@@ -1,0 +1,26 @@
+2019-02-28 22:08:28,416 - BrowserEngine - INFO - you had select Chrome browser.
+2019-02-28 22:08:28,417 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-02-28 22:08:31,950 - BrowserEngine - INFO - Starting Chrome browser.
+2019-02-28 22:08:32,420 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-02-28 22:08:33,575 - BrowserEngine - INFO - Maximize the current window.
+2019-02-28 22:08:33,579 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2019-02-28 22:08:38,454 - BasePage - INFO - 输入内容admin
+2019-02-28 22:08:38,454 - BasePage - INFO - 输入内容admin
+2019-02-28 22:08:38,575 - BasePage - INFO - 输入内容admin
+2019-02-28 22:08:38,575 - BasePage - INFO - 输入内容admin
+2019-02-28 22:08:54,692 - BasePage - ERROR - <pageobjects.Discuz_homepage.HomePage object at 0x000000000294F3C8>页面中未找到('xpath', '//th/a[2]')元素
+2019-02-28 22:08:54,692 - BasePage - ERROR - <pageobjects.Discuz_homepage.HomePage object at 0x000000000294F3C8>页面中未找到('xpath', '//th/a[2]')元素
+2019-02-28 22:08:54,692 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-28 22:08:54,692 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-28 22:09:05,240 - BasePage - ERROR - <pageobjects.Discuz_homepage.HomePage object at 0x000000000294F3C8>页面中未找到('link text', '删除主题')元素
+2019-02-28 22:09:05,240 - BasePage - ERROR - <pageobjects.Discuz_homepage.HomePage object at 0x000000000294F3C8>页面中未找到('link text', '删除主题')元素
+2019-02-28 22:09:05,240 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-28 22:09:05,240 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-28 22:09:13,567 - BasePage - ERROR - <pageobjects.Discuz_homepage.HomePage object at 0x000000000294F3C8>页面中未找到('xpath', "//p/button[@name='modsubmit']")元素
+2019-02-28 22:09:13,567 - BasePage - ERROR - <pageobjects.Discuz_homepage.HomePage object at 0x000000000294F3C8>页面中未找到('xpath', "//p/button[@name='modsubmit']")元素
+2019-02-28 22:09:13,568 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-28 22:09:13,568 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-28 22:09:21,572 - BasePage - ERROR - <pageobjects.Discuz_homepage.HomePage object at 0x000000000294F3C8>页面中未找到('link text', '管理中心')元素
+2019-02-28 22:09:21,572 - BasePage - ERROR - <pageobjects.Discuz_homepage.HomePage object at 0x000000000294F3C8>页面中未找到('link text', '管理中心')元素
+2019-02-28 22:09:21,572 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-28 22:09:21,572 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'

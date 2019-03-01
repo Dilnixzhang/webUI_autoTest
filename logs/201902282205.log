@@ -1,0 +1,28 @@
+2019-02-28 22:05:01,528 - BrowserEngine - INFO - you had select Chrome browser.
+2019-02-28 22:05:01,528 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-02-28 22:05:05,128 - BrowserEngine - INFO - Starting Chrome browser.
+2019-02-28 22:05:05,551 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-02-28 22:05:06,708 - BrowserEngine - INFO - Maximize the current window.
+2019-02-28 22:05:06,710 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2019-02-28 22:05:11,177 - BasePage - INFO - 输入内容username
+2019-02-28 22:05:11,177 - BasePage - INFO - 输入内容username
+2019-02-28 22:05:11,286 - BasePage - INFO - 输入内容username
+2019-02-28 22:05:11,286 - BasePage - INFO - 输入内容username
+2019-02-28 22:05:22,361 - BasePage - ERROR - <pageobjects.Discuz_homepage.HomePage object at 0x00000000029A0668>页面中未找到('name', 'srchtxt')元素
+2019-02-28 22:05:22,361 - BasePage - ERROR - <pageobjects.Discuz_homepage.HomePage object at 0x00000000029A0668>页面中未找到('name', 'srchtxt')元素
+2019-02-28 22:05:34,099 - BrowserEngine - INFO - you had select Chrome browser.
+2019-02-28 22:05:34,099 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-02-28 22:05:37,399 - BrowserEngine - INFO - Starting Chrome browser.
+2019-02-28 22:05:37,812 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-02-28 22:05:38,982 - BrowserEngine - INFO - Maximize the current window.
+2019-02-28 22:05:38,983 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2019-02-28 22:05:49,815 - BasePage - INFO - 输入内容username
+2019-02-28 22:05:49,815 - BasePage - INFO - 输入内容username
+2019-02-28 22:05:49,932 - BasePage - INFO - 输入内容username
+2019-02-28 22:05:49,932 - BasePage - INFO - 输入内容username
+2019-02-28 22:06:00,657 - BasePage - INFO - 输入内容haotest
+2019-02-28 22:06:00,657 - BasePage - INFO - 输入内容haotest
+2019-02-28 22:06:00,809 - BasePage - INFO - 输入内容好乱好乱好乱好乱好难定位啊啊啊啊啊！！！！
+2019-02-28 22:06:00,809 - BasePage - INFO - 输入内容好乱好乱好乱好乱好难定位啊啊啊啊啊！！！！
+2019-02-28 22:06:17,299 - BasePage - INFO - 输入内容真的是好难！！！！！啊！！！啊
+2019-02-28 22:06:17,299 - BasePage - INFO - 输入内容真的是好难！！！！！啊！！！啊

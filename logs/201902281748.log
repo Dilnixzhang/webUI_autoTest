@@ -1,0 +1,18 @@
+2019-02-28 17:48:53,385 - BrowserEngine - INFO - you had select Chrome browser.
+2019-02-28 17:48:53,385 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-02-28 17:48:56,099 - BrowserEngine - INFO - Starting Chrome browser.
+2019-02-28 17:49:00,831 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-02-28 17:49:01,967 - BrowserEngine - INFO - Maximize the current window.
+2019-02-28 17:49:01,968 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2019-02-28 17:49:07,044 - BasePage - INFO - 输入内容admin
+2019-02-28 17:49:07,145 - BasePage - INFO - 输入内容admin
+2019-02-28 17:49:28,889 - BasePage - INFO - 输入内容admin
+2019-02-28 17:50:05,234 - BasePage - INFO - 输入内容discuz实战3
+2019-02-28 17:50:08,616 - BasePage - INFO - Closing and quit the browser
+2019-02-28 17:50:19,032 - BasePage - INFO - 输入内容username
+2019-02-28 17:50:19,140 - BasePage - INFO - 输入内容username
+2019-02-28 17:50:39,770 - BasePage - ERROR - <pageobjects.Discuz_homepage.HomePage object at 0x00000000029CF5F8>页面中未找到('css selector', 'tr:nth-last-child(2) h2 a')元素
+2019-02-28 17:50:39,770 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-28 17:50:39,890 - BasePage - INFO - 输入内容退不出去
+2019-02-28 17:50:40,015 - BasePage - INFO - 输入内容我怎么进啊啊啊啊啊啊啊！！！
+2019-02-28 17:51:06,083 - BasePage - INFO - 输入内容我要睡觉！！！！

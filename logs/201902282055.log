@@ -1,0 +1,22 @@
+2019-02-28 20:55:32,710 - BrowserEngine - INFO - you had select Chrome browser.
+2019-02-28 20:55:32,711 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-02-28 20:55:35,847 - BrowserEngine - INFO - Starting Chrome browser.
+2019-02-28 20:55:36,401 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-02-28 20:55:37,571 - BrowserEngine - INFO - Maximize the current window.
+2019-02-28 20:55:37,572 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2019-02-28 20:55:42,695 - BasePage - INFO - 输入内容admin
+2019-02-28 20:55:42,695 - BasePage - INFO - 输入内容admin
+2019-02-28 20:55:42,794 - BasePage - INFO - 输入内容admin
+2019-02-28 20:55:42,794 - BasePage - INFO - 输入内容admin
+2019-02-28 20:56:04,858 - BasePage - INFO - 输入内容admin
+2019-02-28 20:56:04,858 - BasePage - INFO - 输入内容admin
+2019-02-28 20:56:38,134 - BasePage - INFO - 输入内容discuz实战3
+2019-02-28 20:56:38,134 - BasePage - INFO - 输入内容discuz实战3
+2019-02-28 20:56:41,387 - BasePage - INFO - Closing and quit the browser
+2019-02-28 20:56:41,387 - BasePage - INFO - Closing and quit the browser
+2019-02-28 20:56:51,886 - BasePage - INFO - 输入内容username
+2019-02-28 20:56:51,886 - BasePage - INFO - 输入内容username
+2019-02-28 20:56:52,024 - BasePage - INFO - 输入内容username
+2019-02-28 20:56:52,024 - BasePage - INFO - 输入内容username
+2019-02-28 20:57:12,302 - BasePage - INFO - 输入内容退不出去
+2019-02-28 20:57:12,302 - BasePage - INFO - 输入内容退不出去

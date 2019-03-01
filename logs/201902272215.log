@@ -1,0 +1,9 @@
+2019-02-27 22:15:10,003 - BrowserEngine - INFO - you had select Chrome browser.
+2019-02-27 22:15:10,018 - BrowserEngine - INFO - the test server url is: https://www.baidu.com
+2019-02-27 22:15:12,882 - BrowserEngine - INFO - Starting Chrome browser.
+2019-02-27 22:15:14,214 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2019-02-27 22:15:15,376 - BrowserEngine - INFO - Maximize the current window.
+2019-02-27 22:15:15,376 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2019-02-27 22:15:20,239 - BasePage - INFO - 输入内容admin
+2019-02-27 22:15:20,339 - BasePage - INFO - 输入内容admin
+2019-02-27 22:15:44,116 - BasePage - ERROR - <pageobjects.Discuz_homepage_send.HomePage object at 0x000000000294F358>页面中未找到('css selector', '.loginform input')元素

@@ -1,0 +1,18 @@
+2019-03-01 10:12:06,377 - BrowserEngine - INFO - you had select Chrome browser.
+2019-03-01 10:12:06,377 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-03-01 10:12:10,768 - BrowserEngine - INFO - Starting Chrome browser.
+2019-03-01 10:12:11,907 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-03-01 10:12:13,123 - BrowserEngine - INFO - Maximize the current window.
+2019-03-01 10:12:13,123 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2019-03-01 10:12:22,662 - BasePage - INFO - 输入内容username
+2019-03-01 10:12:22,662 - BasePage - INFO - 输入内容username
+2019-03-01 10:12:22,940 - BasePage - INFO - 输入内容username
+2019-03-01 10:12:22,940 - BasePage - INFO - 输入内容username
+2019-03-01 10:12:33,673 - BasePage - INFO - 输入内容周末除了学习能干嘛
+2019-03-01 10:12:33,673 - BasePage - INFO - 输入内容周末除了学习能干嘛
+2019-03-01 10:12:33,770 - BasePage - INFO - 输入内容学习
+2019-03-01 10:12:33,770 - BasePage - INFO - 输入内容学习
+2019-03-01 10:12:33,868 - BasePage - INFO - 输入内容睡觉
+2019-03-01 10:12:33,868 - BasePage - INFO - 输入内容睡觉
+2019-03-01 10:12:33,983 - BasePage - INFO - 输入内容出去玩
+2019-03-01 10:12:33,983 - BasePage - INFO - 输入内容出去玩

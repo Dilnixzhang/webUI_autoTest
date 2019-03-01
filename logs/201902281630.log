@@ -1,0 +1,12 @@
+2019-02-28 16:30:04,177 - BrowserEngine - INFO - you had select Chrome browser.
+2019-02-28 16:30:04,178 - BrowserEngine - INFO - the test server url is: https://www.baidu.com
+2019-02-28 16:30:07,288 - BrowserEngine - INFO - Starting Chrome browser.
+2019-02-28 16:30:27,681 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2019-02-28 16:30:28,844 - BrowserEngine - INFO - Maximize the current window.
+2019-02-28 16:30:28,848 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2019-02-28 16:30:33,742 - BasePage - INFO - 输入内容username
+2019-02-28 16:30:33,839 - BasePage - INFO - 输入内容username
+2019-02-28 16:30:55,281 - BasePage - ERROR - <pageobjects.Discuz_homepage.HomePage object at 0x000000000296F208>页面中未找到('css selector', '#editorbox > ul > li:nth-child(2) > a')元素
+2019-02-28 16:30:55,281 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-28 16:30:55,421 - BasePage - INFO - 输入内容周末干嘛
+2019-02-28 16:31:05,963 - BasePage - ERROR - <pageobjects.Discuz_homepage.HomePage object at 0x000000000296F208>页面中未找到('css selector', '#pollm_c_1 > p:nth-child(1) > input')元素

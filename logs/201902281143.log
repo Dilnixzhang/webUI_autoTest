@@ -1,0 +1,11 @@
+2019-02-28 11:43:40,065 - BrowserEngine - INFO - you had select Chrome browser.
+2019-02-28 11:43:40,065 - BrowserEngine - INFO - the test server url is: https://www.baidu.com
+2019-02-28 11:43:42,920 - BrowserEngine - INFO - Starting Chrome browser.
+2019-02-28 11:43:44,125 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2019-02-28 11:43:45,292 - BrowserEngine - INFO - Maximize the current window.
+2019-02-28 11:43:45,292 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2019-02-28 11:43:55,598 - BasePage - INFO - 输入内容username
+2019-02-28 11:43:55,698 - BasePage - INFO - 输入内容username
+2019-02-28 11:44:02,944 - BasePage - INFO - 输入内容haotest
+2019-02-28 11:44:19,685 - BasePage - ERROR - <pageobjects.Discuz_homepage_send.HomePage object at 0x00000000029C0278>页面中未找到('css selector', '.xs3 a')元素
+2019-02-28 11:44:19,685 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
