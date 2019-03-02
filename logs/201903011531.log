@@ -1,0 +1,60 @@
+2019-03-01 15:31:57,295 - BrowserEngine - INFO - you had select Chrome browser.
+2019-03-01 15:31:57,296 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-03-01 15:31:59,902 - BrowserEngine - INFO - Starting Chrome browser.
+2019-03-01 15:32:00,313 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-03-01 15:32:01,483 - BrowserEngine - INFO - Maximize the current window.
+2019-03-01 15:32:01,486 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2019-03-01 15:32:11,655 - BasePage - INFO - 输入内容username
+2019-03-01 15:32:11,655 - BasePage - INFO - 输入内容username
+2019-03-01 15:32:11,766 - BasePage - INFO - 输入内容username
+2019-03-01 15:32:11,766 - BasePage - INFO - 输入内容username
+2019-03-01 15:32:22,540 - BasePage - INFO - 输入内容haotest
+2019-03-01 15:32:22,540 - BasePage - INFO - 输入内容haotest
+2019-03-01 15:32:22,687 - BasePage - INFO - 输入内容好乱好乱好乱好乱好难定位啊啊啊啊啊！！！！
+2019-03-01 15:32:22,687 - BasePage - INFO - 输入内容好乱好乱好乱好乱好难定位啊啊啊啊啊！！！！
+2019-03-01 15:32:37,020 - BasePage - INFO - 输入内容真的是好难！！！！！啊！！！啊
+2019-03-01 15:32:37,020 - BasePage - INFO - 输入内容真的是好难！！！！！啊！！！啊
+2019-03-01 15:32:50,940 - BrowserEngine - INFO - you had select Chrome browser.
+2019-03-01 15:32:50,942 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-03-01 15:32:53,744 - BrowserEngine - INFO - Starting Chrome browser.
+2019-03-01 15:32:54,171 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-03-01 15:32:55,372 - BrowserEngine - INFO - Maximize the current window.
+2019-03-01 15:32:55,376 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2019-03-01 15:33:00,795 - BasePage - INFO - 输入内容admin
+2019-03-01 15:33:00,795 - BasePage - INFO - 输入内容admin
+2019-03-01 15:33:00,907 - BasePage - INFO - 输入内容admin
+2019-03-01 15:33:00,907 - BasePage - INFO - 输入内容admin
+2019-03-01 15:33:53,904 - BasePage - ERROR - <pageobjects.Discuz_homepage.HomePage object at 0x00000000031C3E48>页面中未找到('css selector', '.loginform input')元素
+2019-03-01 15:33:53,904 - BasePage - ERROR - <pageobjects.Discuz_homepage.HomePage object at 0x00000000031C3E48>页面中未找到('css selector', '.loginform input')元素
+2019-03-01 15:34:02,180 - BrowserEngine - INFO - you had select Chrome browser.
+2019-03-01 15:34:02,180 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-03-01 15:34:06,634 - BrowserEngine - INFO - Starting Chrome browser.
+2019-03-01 15:34:07,065 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-03-01 15:34:08,177 - BrowserEngine - INFO - Maximize the current window.
+2019-03-01 15:34:08,179 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2019-03-01 15:34:12,871 - BasePage - INFO - 输入内容username
+2019-03-01 15:34:12,871 - BasePage - INFO - 输入内容username
+2019-03-01 15:34:12,985 - BasePage - INFO - 输入内容username
+2019-03-01 15:34:12,985 - BasePage - INFO - 输入内容username
+2019-03-01 15:34:20,287 - BasePage - INFO - 输入内容haotest
+2019-03-01 15:34:20,287 - BasePage - INFO - 输入内容haotest
+2019-03-01 15:34:35,401 - BasePage - INFO - Closing and quit the browser
+2019-03-01 15:34:35,401 - BasePage - INFO - Closing and quit the browser
+2019-03-01 15:34:47,996 - BrowserEngine - INFO - you had select Chrome browser.
+2019-03-01 15:34:47,996 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-03-01 15:34:50,998 - BrowserEngine - INFO - Starting Chrome browser.
+2019-03-01 15:34:51,431 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-03-01 15:34:52,583 - BrowserEngine - INFO - Maximize the current window.
+2019-03-01 15:34:52,584 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2019-03-01 15:34:57,188 - BasePage - INFO - 输入内容username
+2019-03-01 15:34:57,188 - BasePage - INFO - 输入内容username
+2019-03-01 15:34:57,296 - BasePage - INFO - 输入内容username
+2019-03-01 15:34:57,296 - BasePage - INFO - 输入内容username
+2019-03-01 15:35:06,735 - BasePage - INFO - 输入内容周末除了学习能干嘛
+2019-03-01 15:35:06,735 - BasePage - INFO - 输入内容周末除了学习能干嘛
+2019-03-01 15:35:06,828 - BasePage - INFO - 输入内容学习
+2019-03-01 15:35:06,828 - BasePage - INFO - 输入内容学习
+2019-03-01 15:35:06,924 - BasePage - INFO - 输入内容睡觉
+2019-03-01 15:35:06,924 - BasePage - INFO - 输入内容睡觉
+2019-03-01 15:35:07,019 - BasePage - INFO - 输入内容出去玩
+2019-03-01 15:35:07,019 - BasePage - INFO - 输入内容出去玩

@@ -1,12 +1,9 @@
 import time
 from  pageobjects.base import BasePage
 from selenium.webdriver.common.by import By
-
 from framework.logger import Logger
 
-#定义homepage类
-
-
+#定义homepage类 调用getlog（）
 logger = Logger(logger="BasePage").getlog()
 class HomePage(BasePage):
     #用户登录
@@ -43,7 +40,8 @@ class HomePage(BasePage):
     add_new_section_input_loc = (By.NAME,'newforum[1][]')
     add_new_section_sbm_loc = (By.CSS_SELECTOR,'.fixsel input')
     #进入新版块
-    home_page_index_loc = (By.CSS_SELECTOR,'.nvhm')#pt > div:nth-child(1) > a.nvhm
+    home_page_index_loc = (By.CSS_SELECTOR,'.nvhm')
+    #pt > div:nth-child(1) > a.nvhm
     home_page_new_section_loc = (By.CSS_SELECTOR,'tr:nth-last-child(2) h2 a')
     #category_1 > table > tbody > tr:nth-child(7) > td:nth-child(2) > h2 > a
     # category_1 > table > tbody > tr:nth-child(4) > td:nth-child(2) > h2 > a
@@ -206,12 +204,3 @@ class HomePage(BasePage):
      #退出
     def logout(self):
         self.click(*self.send_page_logout_loc)
-
-
-
-
-
-
-
-
-

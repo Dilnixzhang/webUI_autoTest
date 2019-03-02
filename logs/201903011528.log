@@ -1,0 +1,26 @@
+2019-03-01 15:28:25,927 - BrowserEngine - INFO - you had select Chrome browser.
+2019-03-01 15:28:25,927 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-03-01 15:28:29,865 - BrowserEngine - INFO - Starting Chrome browser.
+2019-03-01 15:28:30,559 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-03-01 15:28:31,726 - BrowserEngine - INFO - Maximize the current window.
+2019-03-01 15:28:31,726 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2019-03-01 15:28:36,677 - BasePage - INFO - 输入内容admin
+2019-03-01 15:28:36,677 - BasePage - INFO - 输入内容admin
+2019-03-01 15:28:36,791 - BasePage - INFO - 输入内容admin
+2019-03-01 15:28:36,791 - BasePage - INFO - 输入内容admin
+2019-03-01 15:28:59,217 - BasePage - INFO - 输入内容admin
+2019-03-01 15:28:59,217 - BasePage - INFO - 输入内容admin
+2019-03-01 15:29:50,019 - BasePage - INFO - 输入内容discuz实战3
+2019-03-01 15:29:50,019 - BasePage - INFO - 输入内容discuz实战3
+2019-03-01 15:29:53,353 - BasePage - INFO - Closing and quit the browser
+2019-03-01 15:29:53,353 - BasePage - INFO - Closing and quit the browser
+2019-03-01 15:30:04,023 - BasePage - INFO - 输入内容username
+2019-03-01 15:30:04,023 - BasePage - INFO - 输入内容username
+2019-03-01 15:30:04,128 - BasePage - INFO - 输入内容username
+2019-03-01 15:30:04,128 - BasePage - INFO - 输入内容username
+2019-03-01 15:30:15,198 - BasePage - INFO - 输入内容退不出去
+2019-03-01 15:30:15,198 - BasePage - INFO - 输入内容退不出去
+2019-03-01 15:30:15,319 - BasePage - INFO - 输入内容我怎么进啊啊啊啊啊啊啊！！！
+2019-03-01 15:30:15,319 - BasePage - INFO - 输入内容我怎么进啊啊啊啊啊啊啊！！！
+2019-03-01 15:30:52,576 - BasePage - INFO - 输入内容我要睡觉！！！！
+2019-03-01 15:30:52,576 - BasePage - INFO - 输入内容我要睡觉！！！！
