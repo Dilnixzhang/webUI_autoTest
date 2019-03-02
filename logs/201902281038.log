@@ -1,9 +1,0 @@
-2019-02-28 10:38:31,899 - BrowserEngine - INFO - you had select Chrome browser.
-2019-02-28 10:38:31,899 - BrowserEngine - INFO - the test server url is: https://www.baidu.com
-2019-02-28 10:38:35,306 - BrowserEngine - INFO - Starting Chrome browser.
-2019-02-28 10:38:36,569 - BrowserEngine - INFO - Open url: https://www.baidu.com
-2019-02-28 10:38:37,746 - BrowserEngine - INFO - Maximize the current window.
-2019-02-28 10:38:37,746 - BrowserEngine - INFO - Set implicitly wait 5 seconds
-2019-02-28 10:38:42,928 - BasePage - INFO - 输入内容username
-2019-02-28 10:38:43,043 - BasePage - INFO - 输入内容username
-2019-02-28 10:38:50,578 - BasePage - INFO - 输入内容haotest
