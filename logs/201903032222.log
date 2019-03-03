@@ -1,0 +1,74 @@
+2019-03-03 22:22:01,187 - BrowserEngine - INFO - you had select Chrome browser.
+2019-03-03 22:22:01,187 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-03-03 22:22:04,419 - BrowserEngine - INFO - Starting Chrome browser.
+2019-03-03 22:22:06,660 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-03-03 22:22:07,833 - BrowserEngine - INFO - Maximize the current window.
+2019-03-03 22:22:07,833 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2019-03-03 22:22:13,010 - BasePage - INFO - 输入内容username
+2019-03-03 22:22:13,010 - BasePage - INFO - 输入内容username
+2019-03-03 22:22:13,409 - BasePage - INFO - 输入内容username
+2019-03-03 22:22:13,409 - BasePage - INFO - 输入内容username
+2019-03-03 22:22:24,399 - BasePage - INFO - 输入内容haotest
+2019-03-03 22:22:24,399 - BasePage - INFO - 输入内容haotest
+2019-03-03 22:22:24,549 - BasePage - INFO - 输入内容好乱好乱好乱好乱好难定位啊啊啊啊啊！！！！
+2019-03-03 22:22:24,549 - BasePage - INFO - 输入内容好乱好乱好乱好乱好难定位啊啊啊啊啊！！！！
+2019-03-03 22:22:40,136 - BasePage - INFO - 输入内容真的是好难！！！！！啊！！！啊
+2019-03-03 22:22:40,136 - BasePage - INFO - 输入内容真的是好难！！！！！啊！！！啊
+2019-03-03 22:22:54,814 - BrowserEngine - INFO - you had select Chrome browser.
+2019-03-03 22:22:54,814 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-03-03 22:22:57,534 - BrowserEngine - INFO - Starting Chrome browser.
+2019-03-03 22:22:58,473 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-03-03 22:22:59,748 - BrowserEngine - INFO - Maximize the current window.
+2019-03-03 22:22:59,751 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2019-03-03 22:22:59,874 - BasePage - INFO - 输入内容admin
+2019-03-03 22:22:59,874 - BasePage - INFO - 输入内容admin
+2019-03-03 22:22:59,986 - BasePage - INFO - 输入内容admin
+2019-03-03 22:22:59,986 - BasePage - INFO - 输入内容admin
+2019-03-03 22:23:24,407 - BasePage - INFO - 输入内容admin
+2019-03-03 22:23:24,407 - BasePage - INFO - 输入内容admin
+2019-03-03 22:26:47,923 - BasePage - INFO - 输入内容discuz实战3
+2019-03-03 22:26:47,923 - BasePage - INFO - 输入内容discuz实战3
+2019-03-03 22:26:51,239 - BasePage - INFO - Closing and quit the browser
+2019-03-03 22:26:51,239 - BasePage - INFO - Closing and quit the browser
+2019-03-03 22:27:01,881 - BasePage - INFO - 输入内容username
+2019-03-03 22:27:01,881 - BasePage - INFO - 输入内容username
+2019-03-03 22:27:01,979 - BasePage - INFO - 输入内容username
+2019-03-03 22:27:01,979 - BasePage - INFO - 输入内容username
+2019-03-03 22:27:12,783 - BasePage - INFO - 输入内容退不出去
+2019-03-03 22:27:12,783 - BasePage - INFO - 输入内容退不出去
+2019-03-03 22:27:12,913 - BasePage - INFO - 输入内容我怎么进啊啊啊啊啊啊啊！！！
+2019-03-03 22:27:12,913 - BasePage - INFO - 输入内容我怎么进啊啊啊啊啊啊啊！！！
+2019-03-03 22:27:45,688 - BasePage - INFO - 输入内容我要睡觉！！！！
+2019-03-03 22:27:45,688 - BasePage - INFO - 输入内容我要睡觉！！！！
+2019-03-03 22:27:58,764 - BrowserEngine - INFO - you had select Chrome browser.
+2019-03-03 22:27:58,764 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-03-03 22:28:14,365 - BrowserEngine - INFO - Starting Chrome browser.
+2019-03-03 22:28:14,793 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-03-03 22:28:15,940 - BrowserEngine - INFO - Maximize the current window.
+2019-03-03 22:28:15,941 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2019-03-03 22:28:16,071 - BasePage - INFO - 输入内容username
+2019-03-03 22:28:16,071 - BasePage - INFO - 输入内容username
+2019-03-03 22:28:16,281 - BasePage - INFO - 输入内容username
+2019-03-03 22:28:16,281 - BasePage - INFO - 输入内容username
+2019-03-03 22:28:23,634 - BasePage - INFO - 输入内容haotest
+2019-03-03 22:28:23,634 - BasePage - INFO - 输入内容haotest
+2019-03-03 22:29:29,241 - BasePage - INFO - Closing and quit the browser
+2019-03-03 22:29:29,241 - BasePage - INFO - Closing and quit the browser
+2019-03-03 22:29:40,027 - BrowserEngine - INFO - you had select Chrome browser.
+2019-03-03 22:29:40,027 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-03-03 22:29:42,930 - BrowserEngine - INFO - Starting Chrome browser.
+2019-03-03 22:29:43,386 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-03-03 22:29:44,634 - BrowserEngine - INFO - Maximize the current window.
+2019-03-03 22:29:44,637 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2019-03-03 22:29:44,860 - BasePage - INFO - 输入内容username
+2019-03-03 22:29:44,860 - BasePage - INFO - 输入内容username
+2019-03-03 22:29:45,024 - BasePage - INFO - 输入内容username
+2019-03-03 22:29:45,024 - BasePage - INFO - 输入内容username
+2019-03-03 22:29:54,952 - BasePage - INFO - 输入内容周末除了学习能干嘛
+2019-03-03 22:29:54,952 - BasePage - INFO - 输入内容周末除了学习能干嘛
+2019-03-03 22:29:55,045 - BasePage - INFO - 输入内容学习
+2019-03-03 22:29:55,045 - BasePage - INFO - 输入内容学习
+2019-03-03 22:29:55,135 - BasePage - INFO - 输入内容睡觉
+2019-03-03 22:29:55,135 - BasePage - INFO - 输入内容睡觉
+2019-03-03 22:29:55,246 - BasePage - INFO - 输入内容出去玩
+2019-03-03 22:29:55,246 - BasePage - INFO - 输入内容出去玩
