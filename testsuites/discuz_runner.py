@@ -1,3 +1,5 @@
+import sys
+sys.path.append("D:/Users/hejiwei/PycharmProjects/Discuz")
 import unittest
 import os
 import HTMLTestRunner
