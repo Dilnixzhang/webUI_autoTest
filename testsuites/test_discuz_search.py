@@ -7,7 +7,7 @@ class DiscuzSearch(BaseTestCase):
     def test_discuz_search(self):
         """断言haotest与期望是否一致"""
         search_page = HomePage(self.driver)
-        search_page.open_url("http://127.0.0.1/forum.php")
+        # search_page.open_url("http://127.0.0.1/forum.php")
         # window_list = self.driver.current_window_handle
         # self.driver.switch_to.window(window_list)
         search_page.login("username","username")

@@ -7,7 +7,7 @@ class DiscuzVote(BaseTestCase):
     def test_discuz_vote(self):
         """发起投票并获得结果"""
         vote_page = HomePage(self.driver)
-        vote_page.open_url("http://127.0.0.1/forum.php")
+        # vote_page.open_url("http://127.0.0.1/forum.php")
         vote_page.login("username","username")
         time.sleep(3)
         vote_page.send_vote("周末除了学习能干嘛","学习","睡觉","出去玩")

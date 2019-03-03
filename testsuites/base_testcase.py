@@ -10,7 +10,7 @@ class BaseTestCase(unittest.TestCase):
         #setup的代码主要是测试的前提准备工作
         browser = BrowserEngine()
         self.driver = browser.open_browser()
-        self.driver = webdriver.Chrome("../tools/chromedriver.exe")
+        # self.driver = webdriver.Chrome("../tools/chromedriver.exe")
         self.driver.maximize_window()
         self.driver.implicitly_wait(10)
 

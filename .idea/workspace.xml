@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f46bcf34-883e-408f-ab1d-e317a09370a3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/test_report/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/test_report/result.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsuites/discuz_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuites/discuz_runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuites/base_testcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuites/base_testcase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuites/test_admin_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuites/test_admin_user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuites/test_discuz_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuites/test_discuz_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuites/test_discuz_send.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuites/test_discuz_send.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuites/test_discuz_vote.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuites/test_discuz_vote.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +21,8 @@
       <file leaf-file-name="Discuz_homepage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pageobjects/Discuz_homepage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+            <state relative-caret-position="-3807">
+              <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -26,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_discuz_vote.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test_discuz_vote.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testsuites/test_discuz_vote.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+            <state relative-caret-position="174">
+              <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -41,8 +45,8 @@
       <file leaf-file-name="base_testcase.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testsuites/base_testcase.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+            <state relative-caret-position="189">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -50,19 +54,63 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="discuz_runner.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="discuz_runner.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testsuites/discuz_runner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+            <state relative-caret-position="135">
+              <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="result.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_report/result.html">
+      <file leaf-file-name="test_discuz_send.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsuites/test_discuz_send.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-186" />
+            <state relative-caret-position="648">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_discuz_search.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsuites/test_discuz_search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_admin_user.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsuites/test_admin_user.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-270">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="browser_engine.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework/browser_engine.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -71,18 +119,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
               <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_admin_user.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testsuites/test_admin_user.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -107,21 +143,21 @@
         <option value="$PROJECT_DIR$/testsuites/test_discuz_runner.py" />
         <option value="$PROJECT_DIR$/config/config.ini" />
         <option value="$USER_HOME$/Desktop/dlx-study/comall2.py" />
-        <option value="$PROJECT_DIR$/testsuites/test_discuz_search.py" />
-        <option value="$PROJECT_DIR$/testsuites/base_testcase.py" />
         <option value="$PROJECT_DIR$/pageobjects/utill.py" />
-        <option value="$PROJECT_DIR$/testsuites/test_discuz_send.py" />
-        <option value="$PROJECT_DIR$/testsuites/test_admin_user.py" />
-        <option value="$PROJECT_DIR$/testsuites/test_discuz_vote.py" />
         <option value="$PROJECT_DIR$/pageobjects/base.py" />
         <option value="$PROJECT_DIR$/pageobjects/util.py" />
         <option value="$PROJECT_DIR$/pageobjects/Discuz_homepage.py" />
         <option value="$PROJECT_DIR$/testsuites/discuz_runner_discover.py" />
         <option value="$PROJECT_DIR$/testsuites/discuz_runner.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_discuz_send.py" />
+        <option value="$PROJECT_DIR$/testsuites/base_testcase.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_discuz_search.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_discuz_vote.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_admin_user.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="209" />
     <option name="y" value="48" />
     <option name="width" value="1224" />
@@ -144,6 +180,11 @@
               <item name="Discuz" type="b2602c69:ProjectViewProjectNode" />
               <item name="Discuz" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Discuz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Discuz" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Discuz" type="b2602c69:ProjectViewProjectNode" />
@@ -188,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.discuz_runner">
+  <component name="RunManager" selected="Python tests.Unittests for test_discuz_send.DiscuzSend.test_discuz_send">
     <configuration name="discuz_runner" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Discuz" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -225,7 +266,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Unittests for test_discuz_vote.DiscuzVote.test_discuz_vote" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_discuz_send.DiscuzSend.test_discuz_send" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Discuz" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -235,10 +276,10 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_discuz_vote.DiscuzVote.test_discuz_vote&quot;" />
+      <option name="_new_target" value="&quot;test_discuz_send.DiscuzSend.test_discuz_send&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests in test_admin_user.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in test_discuz_send.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Discuz" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,7 +289,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/testsuites/test_admin_user.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testsuites/test_discuz_send.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration name="Unittests in test_discuz_vote.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -265,19 +306,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests for test_discuz_vote.DiscuzVote.test_discuz_vote" />
-      <item itemvalue="Python tests.Unittests in test_admin_user.py" />
       <item itemvalue="Python.discuz_runner" />
       <item itemvalue="Python tests.Unittests in test_discuz_vote.py" />
       <item itemvalue="Python.discuz_runner_discover" />
+      <item itemvalue="Python tests.Unittests for test_discuz_send.DiscuzSend.test_discuz_send" />
+      <item itemvalue="Python tests.Unittests in test_discuz_send.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for test_discuz_send.DiscuzSend.test_discuz_send" />
+        <item itemvalue="Python tests.Unittests in test_discuz_send.py" />
         <item itemvalue="Python.discuz_runner" />
         <item itemvalue="Python.discuz_runner_discover" />
         <item itemvalue="Python tests.Unittests in test_discuz_vote.py" />
-        <item itemvalue="Python tests.Unittests in test_admin_user.py" />
-        <item itemvalue="Python tests.Unittests for test_discuz_vote.DiscuzVote.test_discuz_vote" />
       </list>
     </recent_temporary>
   </component>
@@ -295,21 +336,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_test_admin_user_DiscuzSecond_test_admin_user - 2019.02.28 at 22h 09m 32s.xml">
-      <configuration name="Unittests for test_admin_user.DiscuzSecond.test_admin_user" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_admin_user_DiscuzSecond_test_admin_user - 2019.02.28 at 22h 11m 03s.xml">
-      <configuration name="Unittests for test_admin_user.DiscuzSecond.test_admin_user" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_admin_user_DiscuzSecond_test_admin_user - 2019.02.28 at 22h 22m 15s.xml">
-      <configuration name="Unittests for test_admin_user.DiscuzSecond.test_admin_user" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_discuz_search_DiscuzSearch_test_discuz_search - 2019.02.28 at 22h 25m 16s.xml">
-      <configuration name="Unittests for test_discuz_search.DiscuzSearch.test_discuz_search" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_discuz_vote_DiscuzVote_test_discuz_vote - 2019.02.28 at 22h 27m 10s.xml">
-      <configuration name="Unittests for test_discuz_vote.DiscuzVote.test_discuz_vote" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_test_discuz_vote_DiscuzVote_test_discuz_vote - 2019.03.01 at 10h 13m 06s.xml">
       <configuration name="Unittests for test_discuz_vote.DiscuzVote.test_discuz_vote" configurationId="tests" />
     </history-entry>
@@ -325,6 +351,21 @@
     <history-entry file="Unittests_in_test_discuz_vote_py - 2019.03.01 at 15h 40m 29s.xml">
       <configuration name="Unittests in test_discuz_vote.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_for_test_discuz_send_DiscuzSend_test_discuz_send - 2019.03.03 at 21h 29m 24s.xml">
+      <configuration name="Unittests for test_discuz_send.DiscuzSend.test_discuz_send" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_discuz_send_DiscuzSend_test_discuz_send - 2019.03.03 at 21h 31m 03s.xml">
+      <configuration name="Unittests for test_discuz_send.DiscuzSend.test_discuz_send" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_discuz_send_DiscuzSend_test_discuz_send - 2019.03.03 at 21h 31m 26s.xml">
+      <configuration name="Unittests for test_discuz_send.DiscuzSend.test_discuz_send" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_discuz_send_py - 2019.03.03 at 21h 35m 13s.xml">
+      <configuration name="Unittests in test_discuz_send.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_discuz_send_DiscuzSend_test_discuz_send - 2019.03.03 at 21h 38m 30s.xml">
+      <configuration name="Unittests for test_discuz_send.DiscuzSend.test_discuz_send" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -335,11 +376,11 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28422424" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28422424" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29074314" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -358,14 +399,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/testsuites/discuz_runner.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -424,13 +458,6 @@
     <entry file="file://$PROJECT_DIR$/testsuites/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/framework/browser_engine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/framework/logger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -483,20 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsuites/test_discuz_send.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsuites/test_discuz_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pageobjects/base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2187">
@@ -511,27 +524,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsuites/test_admin_user.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pageobjects/util.py" />
-    <entry file="file://$PROJECT_DIR$/testsuites/base_testcase.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logs/201903011018.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -553,26 +546,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsuites/test_discuz_vote.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pageobjects/Discuz_homepage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Program Files/Lib/unittest/loader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
@@ -580,10 +553,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test_report/result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-186" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/config.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/Discuz_homepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3807">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/browser_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -594,15 +589,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_report/result.html">
+    <entry file="file://$PROJECT_DIR$/testsuites/base_testcase.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-186" />
+        <state relative-caret-position="189">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testsuites/discuz_runner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+        <state relative-caret-position="135">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/test_admin_user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/test_discuz_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/test_discuz_send.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/test_discuz_vote.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

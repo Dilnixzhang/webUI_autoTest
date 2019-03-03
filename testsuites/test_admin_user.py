@@ -8,7 +8,6 @@ class DiscuzSecond(BaseTestCase):
     def test_admin_user(self):
         """用户新版块下发帖"""
         center_page = HomePage(self.driver)
-        center_page.open_url("http://127.0.0.1/forum.php")
         #管理员登录
         center_page.login("admin","admin")
         #进入默认板块 删除帖子

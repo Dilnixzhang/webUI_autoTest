@@ -8,7 +8,7 @@ class DiscuzSend(BaseTestCase):
     def test_discuz_send(self):
         """用户默认板块下发帖"""
         home_page_send = HomePage(self.driver)
-        home_page_send.open_url("http://127.0.0.1/forum.php")
+        # home_page_send.open_url("http://127.0.0.1/forum.php")
         time.sleep(5)
         home_page_send.login("username","username")
         time.sleep(5)

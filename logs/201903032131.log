@@ -1,0 +1,8 @@
+2019-03-03 21:31:05,207 - BrowserEngine - INFO - you had select Chrome browser.
+2019-03-03 21:31:05,207 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-03-03 21:31:08,237 - BrowserEngine - INFO - Starting Chrome browser.
+2019-03-03 21:31:08,685 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-03-03 21:31:09,883 - BrowserEngine - INFO - Maximize the current window.
+2019-03-03 21:31:09,883 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2019-03-03 21:31:23,620 - BasePage - ERROR - <pageobjects.Discuz_homepage.HomePage object at 0x0000000002D21470>页面中未找到('name', 'username')元素
+2019-03-03 21:31:23,620 - BasePage - ERROR - <pageobjects.Discuz_homepage.HomePage object at 0x0000000002D21470>页面中未找到('name', 'username')元素
